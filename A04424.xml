@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Dialogue or communicacion betwene our sauiour Ihesu Chryste and a sinner, lately translated out of the Latin tonge in to englyshe.]</title>
+         </titleStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A04424</idno><idno type="EEBO-CITATION">99842072</idno>
+  <idno type="VID">6696</idno>
+  <idno type="EEBO-PROQUEST">2240860179</idno>
+  <idno type="STC">STC 14548</idno>
+  <idno type="STC">ESTC S106354</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99842072e"/>
+            <note>(EEBO-TCP ; phase 2, no. A04424)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 6696)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 738:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[Dialogue or communicacion betwene our sauiour Ihesu Chryste and a sinner, lately translated out of the Latin tonge in to englyshe.]</title>
+               </titleStmt>
+               <extent>[64] p.   </extent>
+               <publicationStmt>
+                  <publisher>In south wark by Johan Redman, for Robert Redman,</publisher>
+                  <pubPlace>[Newly imprynted at London :</pubPlace>
+                  <date>[1539?]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from leaf D8v, which reads: Thus endeth the Dialogue or communicacion betwene our sauiour Ihesu Chryste and a sinner.</note>
+                  <note>Caption title, leaf A2r, reads: Here after foloweth the prologue, to the jentyll and loueynge readers hereof, that in the merites of Christes passion delyteth.</note>
+                  <note>Imprint from colophon; publication date suggested by STC.</note>
+                  <note>Signatures: A-D.</note>
+                  <note>Imperfect; lacks title page.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Jesus Christ --  Devotional literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="prologue">
+            <pb facs="tcp:6696:1"/>
+            <pb facs="tcp:6696:1"/>
+            <head>¶Here after foloweth the pro<g ref="char:EOLhyphen"/>logue / To the Ientyll and loueynge readers hereof, That in the merites of Christes passi<g ref="char:EOLhyphen"/>on delyteth.</head>
+            <p>
+               <seg rend="decorInit">A</seg>L ye Ientyll and loue<g ref="char:EOLhyphen"/>yng readers that in the merytes of Christes pas<g ref="char:EOLunhyphen"/>syon delyteth, Note ye only myn intent / and not my rude barba<g ref="char:EOLhyphen"/>rous tonge / that for lacke of in<g ref="char:EOLhyphen"/>telligence / may soone vary / from clene &amp; pure eloquence / which for pyte &amp; cōpassion of y<seg rend="sup">e</seg> pore baron sinners / y<seg rend="sup">t</seg> lyeth strangled in sin, haue interprised in most humble wise / vnderneth your correction, this litle treates to translate / out of y<seg rend="sup">e</seg> Latin tonge / into Englyshe Besechyng god of his mercy and
+<pb facs="tcp:6696:2"/> grace, that by y<seg rend="sup">e</seg> oft redyng here<g ref="char:EOLhyphen"/>of / we may both stablysh our in<g ref="char:EOLhyphen"/>warde loue towarde god, &amp; with goostely perceuerans / to y<seg rend="sup">e</seg> {per}fec<g ref="char:EOLhyphen"/>cyon of the soule, wherby y<seg rend="sup">e</seg> frau<g ref="char:EOLhyphen"/>warde and enuyous rankour / of our goostly ennemy the deuill / &amp; the occasyon of syn̄e / may be vt<g ref="char:EOLhyphen"/>terly subpressed, and the wyll of god and his commaundementes accomplyshed, that cōsequently by y<seg rend="sup">e</seg> meanes therof / &amp; throughe the merytes of his most byt<g ref="char:EOLhyphen"/>ter passyon, we may re<g ref="char:EOLhyphen"/>ceyue our eternal re<g ref="char:EOLhyphen"/>warde / in hys euerlastynge glory &amp; Ioy.</p>
+            <closer>AMEN.</closer>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:6696:2"/>
+            <head>¶Here beginneth the com<g ref="char:EOLhyphen"/>municacōn betwen Ihesu Chryste, and the syn<g ref="char:EOLhyphen"/>ner</head>
+            <sp>
+               <speaker>The synner.</speaker>
+               <p>
+                  <seg rend="decorInit">O</seg> My moste benygne lorde Iesu Chryste / haue mercy and pite on me and forgyue thy mooste vnwor<g ref="char:EOLhyphen"/>thyest and vnhappy seruaunt to<g ref="char:EOLhyphen"/>warde the / wyllynge with the to commune a lyttyll.</p>
+            </sp>
+            <sp>
+               <speaker>Iesu Chryst.</speaker>
+               <p>¶who arte thou / that so lamen<g ref="char:EOLhyphen"/>tably complayneth.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:6696:3"/>
+               <speaker>The synner.</speaker>
+               <p>¶A synful man that vnhappely and vnaduysely hath fallen vnto many and dyuers fylthy synnes, ye and from the course of this pre<g ref="char:EOLunhyphen"/>sent lyfe, vnto eternall damnaci<g ref="char:EOLhyphen"/>on, which vnto me is moost vn<g ref="char:EOLhyphen"/>happyest and horyble, in tyme to come.</p>
+            </sp>
+            <sp>
+               <speaker>Chryst.</speaker>
+               <p>¶Fere thou not this horible de<g ref="char:EOLhyphen"/>caye and rewen, yf thou wilt vt<g ref="char:EOLhyphen"/>terly forsake thy sinnes / receyue<g ref="char:EOLhyphen"/>ynge penaunce / with true cōtri<g ref="char:EOLhyphen"/>cyon / makynge satysfaccyon, and neuer here after to offende. Truly I beynge the heuenly glo<g ref="char:EOLunhyphen"/>ry and inestimable swetnes / de<g ref="char:EOLhyphen"/>scended from my regall trone / of most highest magnyfycence, vn<g ref="char:EOLhyphen"/>to vnmeasurable dolours &amp; pay<g ref="char:EOLhyphen"/>nes,
+<pb facs="tcp:6696:3"/> whiche gladly I haue suf<g ref="char:EOLhyphen"/>fred in my mynde / in my body &amp; membres / with all sences &amp; par<g ref="char:EOLhyphen"/>tes thereof, to delyuer the frome eternall dampnacyon, &amp; to gyue the my heuenlye inherytaunce &amp; perpetuall glory,</p>
+               <p>And also doubte thou not / but I wyll clerely forget all thyne offē<g ref="char:EOLhyphen"/>ces / so long as thou arte in wyll &amp; purpose vtterly to forsake thine euyll cōsuetude &amp; custome therof, ye and I saye moreouer / I wyll not remembre thine inequite, but vtterly expell and cause hyt to be so farre indistans from the / as is the mornyng spryng out of the oc<g ref="char:EOLunhyphen"/>cydent, and I shall mundefye &amp; clense the of thy fylthy synnes, &amp; wyll not leaue y<seg rend="sup">e</seg> desolate, before I haue accomplyshed these saye<g ref="char:EOLhyphen"/>ynges in moost ample wyse.</p>
+               <pb facs="tcp:6696:4"/>
+               <p>
+                  <note place="margin">o. v.</note>Vbi autem habundauit delictū super habundauit et gratia. That is to saye, Truelye where vice &amp; syn hath ben habundant / my grace &amp; mercy farre passed in plenteousnes, there is no armo<g ref="char:EOLhyphen"/>ny more delectable or swetter vn<g ref="char:EOLhyphen"/>to me / then my wyll &amp; commaū<g ref="char:EOLhyphen"/>dementes to be accomplysshed / with faythfull loue &amp; fyrme hope in my mercy / and with humble teers to pray and byseche me / of thy synnes to be forgyuen.</p>
+            </sp>
+            <sp>
+               <speaker>The synner.</speaker>
+               <p>¶O crucyfyed Iesu / I knowe doubtles that I am more derely beloued with y<seg rend="sup">t</seg> / then I am with my selfe / For with y<seg rend="sup">e</seg> truely I am at all tymes tenderlye beloued / wherof it is wrytten. Diligis
+<pb facs="tcp:6696:4"/> enim oia que sunt et nichil odisti eorum que fecisti.<note place="margin">Sa. x</note> Verely thou louyst all thynges and hatyst no<g ref="char:EOLhyphen"/>thynge that is of thy creacyon. But for as muche as man often<g ref="char:EOLhyphen"/>tymes loueth not the / so oftenty<g ref="char:EOLhyphen"/>mes man louethe not hym selfe / wherof the prophet Dauid spe<g ref="char:EOLhyphen"/>kethe.<note place="margin">Psal.</note> Qui autem diligit ini<g ref="char:EOLhyphen"/>quitatem odit animam suam. who that delyteh in vyce and syn abhoreth &amp; hateth his owne soule</p>
+            </sp>
+            <sp>
+               <speaker>Chryst.</speaker>
+               <p>¶I haue shewed thys thynge wyth contynuall dolours in all my paynfull lyfe / For truelye I receiued y<seg rend="sup">e</seg> crosse of my bytter pas<g ref="char:EOLunhyphen"/>syon in y<seg rend="sup">e</seg> wombe of my mother / &amp; bare hit continually in my hart &amp; stablyshed hit in my body with
+<pb facs="tcp:6696:5"/> great austerite / wherfore to shew the endles measure of y<seg rend="sup">e</seg> hydeous paynes of my soule / I wylled al my mēbres to haue sweten blode and water / in the fynall &amp; instan<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ende of my bytter passion / and to reuelate the same whyche before was secretly hid within me from y<seg rend="sup">e</seg> wombe of my mother / hit was conuenyent at y<seg rend="sup">e</seg> tyme of my deth openlye to be shewed by exteryor sygnes vnto my electe faythefull people.</p>
+            </sp>
+            <sp>
+               <speaker>The synner.</speaker>
+               <p>¶O most ientyll Iesu I besech the / beholde and take heede vnto this blody swete / with y<seg rend="sup">e</seg> whiche / all thy precyous membres was dyscoloured and made red, And all thy precyous soule tormented most bytterly which remayneth
+<pb facs="tcp:6696:5"/> in all partes of thy gloryous bo<g ref="char:EOLhyphen"/>dy, and is the conseruacion &amp; lyfe therof, But notwithstādyng my most heuenly lorde / shewe vnto me what thyng thou requerest of me / For all these īestimable pay<g ref="char:EOLhyphen"/>nes that for my sake thou hast so contynually suffred.</p>
+            </sp>
+            <sp>
+               <speaker>Chryst.</speaker>
+               <p>¶Onely loue for loue I axe no more / For truly to purchase &amp; by loue / was y<seg rend="sup">e</seg> cause that I suffred myne intollorable passyon.</p>
+            </sp>
+            <sp>
+               <speaker>The synner.</speaker>
+               <p>¶O most worthyest lorde with out doubt / thou art most pureste loue / for thou arte of thy nature good in thy selfe / for there maye
+<pb facs="tcp:6696:6"/> none be good but thou onely god For by thy goodenes gracyous lorde, thou delyuerest man / from the seruytude &amp; bondage of oure goostly ennemy the deuyll. And by hit thou remyttyst &amp; forgyuest synne, which thyng no man can doo / but thou lorde god onelye. And also thou louyst theym that loueth the, as y<seg rend="sup">e</seg> wyse man in his {pro}uerbes saith.<note place="margin">ro. viii</note> Ego diligentes me diligo. And hereist them that denoutlye prayeth &amp; calleth vnto the, As y<seg rend="sup">e</seg> prophet Dauid saythe.<note place="margin">s. cxiiii</note> Dilexi quoniam ex<g ref="char:EOLhyphen"/>audiet dominus. That is to say, I haue loued my lorde god, forbecause he wil here my prayer ye and thou good lorde / arte the brennyng charite / whiche vnto y<seg rend="sup">e</seg> worlde camest to inflame &amp; moue y<seg rend="sup">e</seg> slouthfull &amp; frosty colde hartes
+<pb facs="tcp:6696:6"/> of synners, And thou sayst also. Ego veni vt vitam habeant et habundancius habeant.<note place="margin">Ioh. x</note>
+               </p>
+               <p>I came for synners to haue lyfe ī this worlde by grace and conse<g ref="char:EOLhyphen"/>quently more habundaūce of my glory, in the worlde to come.</p>
+            </sp>
+            <sp>
+               <speaker>Chryst.</speaker>
+               <p>¶withoute doubte there is no<g ref="char:EOLhyphen"/>thyng that so kendeleth y<seg rend="sup">e</seg> diuine fyre of charyte, in thy harte, as doth y<seg rend="sup">e</seg> kepyng of my commaund<g ref="char:EOLunhyphen"/>dementes, &amp; to ponder well my wordes that now thou haste spo<g ref="char:EOLhyphen"/>ken, And marke well these saye<g ref="char:EOLhyphen"/>ynges foloweng,<note place="margin">Ioh. ii</note> Sic enim deus dilexit mundum vt filium suum vnigenitum daret. That is to saye, God my father, hath so tenderly loued y<seg rend="sup">e</seg> worlde, y<seg rend="sup">t</seg> for
+<pb facs="tcp:6696:7"/> redempcyon therof, He gaue me his onely sonne, vnto the cruell and most bytter deth of Crosse.</p>
+            </sp>
+            <sp>
+               <speaker>The synner.</speaker>
+               <p>¶Truely lord, he is a wretched synner, ī whos hart y<seg rend="sup">e</seg> fyre of loue wyll not kendyll, when he consy<g ref="char:EOLhyphen"/>dereth these thynges, wherin ap<g ref="char:EOLunhyphen"/>pereth the hygh loue and charite of god, O thou onely sonne of god, I besech the, suffer not my poore hart to be frosen or bound, with suche frosty colde, but haue pyte and mercy on me, and gyue me grace that I maye saye these wordes with y<seg rend="sup">e</seg> prophet Dauid. Factum est cor meum, tanquam cera liquessens.<note place="margin">
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>s. xxi.</note> My harte is molefyed wyth loue, &amp; made as soft as molten waxe.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:6696:7"/>
+               <speaker>Chryst.</speaker>
+               <p>¶The vnquiet minde of man, toke occasyon of vnkind<g ref="char:EOLunhyphen"/>nes before my passyon, sayeng y<seg rend="sup">t</seg> he was created &amp; made, but not as yet redemed, By reason wher<g ref="char:EOLunhyphen"/>of, I am sayd man nomore boūd vnto god, then other creatures, Ne yet there laboreth no more ef<g ref="char:EOLhyphen"/>fect in me, then in the brute bes<g ref="char:EOLhyphen"/>tes, But now sayeth the prophet Dauid,<note place="margin">Ps. lxii</note> Obstructum est os lo<g ref="char:EOLhyphen"/>quentium iniqua. The wyk<g ref="char:EOLhyphen"/>ked mouthes of suche blasfemers be put vnto scylens, and the oc<g ref="char:EOLhyphen"/>casion of such vnkindnes is now voyde &amp; vtterly expelled, True<g ref="char:EOLhyphen"/>ly I haue laboured more for the redempcyon of mankynde, then in the creacyon of all the worlde, ye forsoth &amp; of a lorde most pue<g ref="char:EOLhyphen"/>saunt, I was made a seruaunt, and from welth &amp; ryches, I was
+<pb facs="tcp:6696:8"/> torned into pouerte and necessite And of immortall I was made mortall, &amp; of y<seg rend="sup">e</seg> wysdome of god, I was made to be incarnate, &amp; of the sonne of god, I was made y<seg rend="sup">e</seg> sonne of man, And also I haue suffred the most shamfulest rebu<g ref="char:EOLhyphen"/>kes of proude and approbryous people that euer myght be seene, I haue moreouer mekely suffred crafty and subtell people in theyr dedes, disdayners &amp; repungners agaynst my sayenges, mockers and scorners in my bitter paynes and passyon, pouerte &amp; necessyte of my body / the oryble abhoryng of deth / and the hatefull dyspyce of y<seg rend="sup">e</seg> crosse.</p>
+            </sp>
+            <sp>
+               <speaker>The synner.</speaker>
+               <p>¶O meruelous &amp; inestymable loue / what may I recompens y<seg rend="sup">t</seg>
+                  <pb facs="tcp:6696:8"/> my lorde god agayne / for all his bytter sorowes / that he hath suf<g ref="char:EOLhyphen"/>fred for me,</p>
+            </sp>
+            <sp>
+               <speaker>Chryst.</speaker>
+               <p>¶If thou wilt remembre howe many thinges I beyng the lorde of hygh magestie / and the onelye sonne of god / hathe suffred for y<seg rend="sup">e</seg>, and yf thou woldest gyue thy self to dye a thousande tymes, thou were not able ne yet suffycyent, to recompens me equallye, For y<seg rend="sup">e</seg> benygnyte of suche a benefyte lieth out of euery mannes power to requyte,</p>
+            </sp>
+            <sp>
+               <speaker>The synner.</speaker>
+               <p>O good lorde / thou saydes here before / y<seg rend="sup">t</seg> thou riceyued y<seg rend="sup">e</seg> Crosse of thy bytter passion / and bare it contynually / from the wombe of
+<pb facs="tcp:6696:9"/> thy blessed mother, vnto the oure of deth, Therfore I beseche the / shew vnto me those reasons / that caused suche sharpe &amp; bitter pay<g ref="char:EOLhyphen"/>nes, to be alwayes in thy sacred soule, y<seg rend="sup">t</seg> hit may be openly know<g ref="char:EOLhyphen"/>wen / howe moche I am bounde vnto the / the lorde of glory, that for my sake / thou dyd conclude thy selfe vnto deth, that I maye īioy thi heuēly beatitude / which eye neuer sawe / neere neuer har<g ref="char:EOLhyphen"/>de,</p>
+            </sp>
+            <sp>
+               <speaker>Chryst.</speaker>
+               <p>¶Consider thou diligētly / with a ceruent spryt / &amp; a lyuely hartt / y<seg rend="sup">t</seg> for thy sake / and all mankinde, I haue suffred a double marter<g ref="char:EOLhyphen"/>dome, One in bodye a nother in soule, that thou shulde be accept and taken for the sacrefice of god by true loue and compassyon, all
+<pb facs="tcp:6696:9"/> inflamed with y<seg rend="sup">e</seg> loue of charyte / to waste and deuoure thy rusty &amp; kākerd syn, And vnto my corpo<g ref="char:EOLhyphen"/>rall merterdome take good hed &amp; beholde, thou shalt se &amp; perceyue that there was neuer passyon of any mertyr so bytter &amp; paynfull, the whiche myght be compared vnto my passyon, and thys wyll I proue vnto the, by auctoryte, by sygne, and by reason, Fyrst I wyll proue vnto y<seg rend="sup">t</seg> by auctoryte, That I my selfe crieth out of my grete and inestimable sorowes, by y<seg rend="sup">e</seg> mouthe of y<seg rend="sup">e</seg> prophet saieng,<note place="margin">Trino.<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note>
+               </p>
+               <p>O vos omnes qui transitis {per} viam attendite et videte si est do<g ref="char:EOLhyphen"/>lor similis sicut dolor meus.</p>
+               <p>O all ye people that walketh by the way beholde and se, yf theyr be any sorowes lyke vnto my do<g ref="char:EOLhyphen"/>lorous passyon, as I maye well
+<pb facs="tcp:6696:10"/> verefy there is none. Secondely I wil proue by sygne and token, for theyr was neuer suche sygnes or tokens sene in y<seg rend="sup">e</seg> merterdome of any other / as was sene in my passion / and to shew the harde &amp; defficultnes therof / y<seg rend="sup">e</seg> sone wax<g ref="char:EOLhyphen"/>ed obscure and darke / and y<seg rend="sup">e</seg> erth trymled and quaked / as yf they had taken {per}ceueraūce of a meke compassyon / wyth lamentable cryenges / they bewayled me y<seg rend="sup">e</seg> / sonne of god / hāgyng then on y<seg rend="sup">e</seg> crosse / for there may no creature suffer or abide my iniury and da<g ref="char:EOLhyphen"/>mage done vnto me his creatour wherī tho wyked &amp; cursed hartes maye be reproued / that wyll not be moued vnto compassion / and sorow of my deth. Thrydly I wyll proue the bytternes of my passyon vnto the by reason / For
+<pb facs="tcp:6696:10"/> thou shalt vnderstande / that my complexcyon / was most noblest in nature / my fleshe vncorrupt / and y<seg rend="sup">e</seg> foure elementes that was ioyned vnto it / was most equal<g ref="char:EOLhyphen"/>ly deuyded / and moreouer then that / I receyued my pure &amp; clene fleshe of a virgin immaculate / for to avoyde and expell orygynall synne, that is to say / the inordy<g ref="char:EOLhyphen"/>nate concupycence, &amp; with suche a complexcyon / the swete amya<g ref="char:EOLhyphen"/>ble beute / &amp; y<seg rend="sup">e</seg> fersnes of strenght alway dothe agre, &amp; in as moche as y<seg rend="sup">e</seg> quantytye of euery element / is y<seg rend="sup">e</seg> more {pro}porcyonably ioyned to gyther / wherof man is made &amp; create / so moche more difficult &amp; harder is their seperacyon / by this yt apereth by reason / that y<seg rend="sup">e</seg> seperacion of my body and soule, was moch more paynfuller then
+<pb facs="tcp:6696:11"/> all other dethes, also how moche more as my fleshe and body was preserued and clere from all ory<g ref="char:EOLhyphen"/>gynall synne, so moche was hyt lykewyse the more paynfuller to be tormented. And as touche<g ref="char:EOLhyphen"/>ynge my spyrytuall merterdome what I haue suffered ī my soule, thou shalt take good hede / as I haue shewed vnto the before / y<seg rend="sup">t</seg> yt began in me / when my soule was fyrste vnyed vnto my body wythin the wombe of the blessed vyrgyn my mother &amp; so alwayes cōtinued from hour to hour and neuer ceased the space of .xxxiii. yeres and aboue / to the tyme my soule was seperate frō my body. And therfore was I constituted &amp; ordeyned a martyr in the wōbe of my blessed mother / wherfore was I neuer without the bytter
+<pb facs="tcp:6696:11"/> martyrdome of my soule not one moment of an houre / for what so euer I suffred / the nyght when I was taken / and in the daye folo<g ref="char:EOLhyphen"/>wyng when I was slayn / of moc<g ref="char:EOLhyphen"/>kes: and scorninges / despisinges and blasfemynges / spyttynges &amp; defyinges / the cronyng of thorne the bitter drynke of eysel and gal the naylynge and stratchynge of my bodye vppon the crosse / all these thynges my blessed sowle susteyned and bore in all my lyfe dayes before / but specially thou oughtest to ponder well in thy mynde and take good hede that the most sharpest darte and most bitter anguyssh of the blessed vir<g ref="char:EOLunhyphen"/>gyn my mother was an excessiue cause of all my dolorous paynes in the respecte of all my sorowes For as moche as the degre of her
+<pb facs="tcp:6696:12"/> motherly excellency it besemed to be in perfyte charite / with a fer<g ref="char:EOLhyphen"/>uent loue towarde me her owne chylde / so moche dyde she sorowe and bewayle my bitter paynes &amp; passion / as moche and more then ony liuynge woman myght so do wherfore her most paynfull herte contynually woūded my mynde / in gyuynge newe and fyers byt<g ref="char:EOLhyphen"/>ter tourmentes vnto my soule / throughe her motherly crosse or sorowe. Another cause of my con<g ref="char:EOLunhyphen"/>tinuall sorowes was all the mar<g ref="char:EOLunhyphen"/>tyrdomes that euer was / or her<g ref="char:EOLhyphen"/>after this shall come vnto my lo<g ref="char:EOLhyphen"/>uyng frendes for my sake. wher<g ref="char:EOLhyphen"/>fore I wyll tell the of trueth that all tho paynes that euery martyr hath suffred in body and soule for my sake / frō Adam vnto the laste man / which at the worldes ende
+<pb facs="tcp:6696:12"/> shall be borne / all these paynes I suffred in my soule without mea<g ref="char:EOLhyphen"/>sure / and of very compassion thei wounded and subpressed my hert more deper then all tho corporal paynes y<seg rend="sup">t</seg> euer they haue or shall actually suffre in their owne bo<g ref="char:EOLhyphen"/>dyes / and for to verifie the trueth hereof there ben .ii. causes. One is y<seg rend="sup">t</seg> I behelde presently all thyn<g ref="char:EOLhyphen"/>ges that hath ben created and is created / or shall be created in the clere glasse of my deite. wherfore as soone as my soule was ioyned vnto my body / vnto the tyme I gaue vp my spryt, I began al<g ref="char:EOLhyphen"/>wayes to beholde all tho paynes that were for to come, bothe vnto me and vnto my louyng frendes whiche mooste cruelly dyde al<g ref="char:EOLhyphen"/>wayes tourment the inferioure partes of my soule / and of this
+<pb facs="tcp:6696:13"/> thynge specially I was greatly and more greuously payned in my spryt, then euer was or shall<g ref="char:EOLhyphen"/>be any of them in their owne pro<g ref="char:EOLhyphen"/>pre persons.</p>
+               <p>Another cause there is that my spyryte was so tormented wyth suche paynes / and that was the abundaunce and superfluite of loue, for loue euer encreaseth and gendreth sorowe and heuines in the spryt / for lyke as mās loue is the more stedfastly and feruently fyxed toward me / so moche more is mās soule tormented with the sorowe of my deth and passion / &amp; for be cause I haue loued the and all men more incomperable then possible ony man may loue him self, therfore I haue suffred more paine in my spryt of all tho thyn<g ref="char:EOLhyphen"/>ges then euer any martir hathe
+<pb facs="tcp:6696:13"/> suffred or dothe suffre and shal to the worldes ende. And thou kno<g ref="char:EOLhyphen"/>west very well that when Paule cōsented vnto y<seg rend="sup">e</seg> stonyng &amp; deth of Stephen, &amp; {per}secuted my christen people, I said vnto him. Saule Saule Quid me persequeris.<note place="margin">Act. ix</note> Saule Saule why dost thou {per}se<g ref="char:EOLunhyphen"/>cute me, and yet did not he perse<g ref="char:EOLhyphen"/>cute me in myn owne propre per<g ref="char:EOLhyphen"/>son, but in y<seg rend="sup">e</seg> persons of my electe and chosen frendes. For what so euer is done vnto my frende, be it good or euill, it is done vnto me. And this procedeth of a speciall loue / that I haue vnto man. So therfore thou mayst consider for what cause my passion excelleth in paynes al other that euer hath suffred, or hereafter shall suffre, for because I was tormented bothe in body and in soule, being
+<pb facs="tcp:6696:14"/> pure without sinne / and in a plea<g ref="char:EOLunhyphen"/>saunt nature, and suffred bothe myne owne martirdome, and al<g ref="char:EOLhyphen"/>so the martirdome of all my elect people al daies of my lyfe. For al suche paines neuer dide perisshe ony of them in their owne propre bodies as it crucified my soule for the space of .xxxiii. yeres and odde wherof the prophet ysay la<g ref="char:EOLhyphen"/>mently complaineth, crieth and saieth.<note place="margin">Esa. liii.</note> Vere langores nostros ipse tulit et dolores not̄s ipse por<g ref="char:EOLunhyphen"/>tauit. Doubtles he hath taken on him oure sorowes, and borne on his precious body oure moste greuous paines, and therfore I might neuer laugh, but oftimes wepe, and appered as thoughe I had ben of the age of fyfty ye<g ref="char:EOLhyphen"/>res and aboue, where I was but xxxiii. yeres and odde, and al cau<g ref="char:EOLunhyphen"/>sed
+<pb facs="tcp:6696:14"/> the incessant tourmentes and continual dolors that was for to come, both towarde my selfe and my elect people, whiche alwaies clerely I beheld &amp; painfully bore in y<seg rend="sup">e</seg> strength of my remēbraunce wherfore I said oftētimes to my fader Multi enī gemit{us} &amp; cor meū merēs.<note place="margin">Trino. i</note> My sorowes ben great &amp; my harte is full heuy, and these thinges I shewe vnto the wher<g ref="char:EOLhyphen"/>by thou shuldest be moued to the more loue &amp; compassion towarde me, for as moche as my life and yeres wasted &amp; cōsumed with so<g ref="char:EOLhyphen"/>rowes &amp; payne.</p>
+            </sp>
+            <sp>
+               <speaker>The synner.</speaker>
+               <p> ¶O good Iesu I here very wel perceyue ther is no mans reason may cōpas &amp; sufficiently deserne y<seg rend="sup">e</seg> profounde depnes of sorowes &amp; vnmesurable heuines y<seg rend="sup">t</seg> alwaies remained in thy sacred soule and
+<pb facs="tcp:6696:15"/> most painful passion, likewise fo<g ref="char:EOLhyphen"/>lowed thy moost holy &amp; deuoute body. But natwithstandyng vn<g ref="char:EOLhyphen"/>derneth my most humble obedi<g ref="char:EOLhyphen"/>ence &amp; thy holy wyll nat displesed I moue vnto the one q̄stion mer<g ref="char:EOLhyphen"/>uaylyng moche how any such ex<g ref="char:EOLunhyphen"/>treme sorowes or paynes myght in any wyse come to thy blessed soule, when all glory, all ioy &amp; he<g ref="char:EOLunhyphen"/>uenly felicite to it was present &amp; fast knyt &amp; vnyed vnto thy deite / whose amiable beuty &amp; most glo<g ref="char:EOLhyphen"/>ryous countenaūce is so ioyful &amp; aboue all cōparisons in gladnes y<seg rend="sup">t</seg> if al y<seg rend="sup">e</seg> dāpned soules of hel my<g ref="char:EOLhyphen"/>ght ones behold as doth y<seg rend="sup">e</seg> blessed sprytes alway assystyng before y<seg rend="sup">e</seg> high maiesty of thy godhed coud neuer suffre tormentes or paynes of any sorow or heuynes by syght of deuilles, or crucifieng ī y<seg rend="sup">e</seg> most
+<pb facs="tcp:6696:15"/> sharpest fyre of hell.</p>
+            </sp>
+            <sp>
+               <speaker>Christ.</speaker>
+               <p>¶Euen as thou sayst ther is no doubte, but my soule was &amp; all<g ref="char:EOLhyphen"/>way is gloryfyed, howe be it my body was mortall &amp; ordeyned to deth. Natwithstādyng my soule after y<seg rend="sup">e</seg> superior powers &amp; partes therof was in as hygh glory and ioy frō y<seg rend="sup">e</seg> sodeyn momēt or instāt tyme y<seg rend="sup">t</seg> it was ioyned to my body bothe then &amp; afterwarde, as well at y<seg rend="sup">e</seg> tyme when I honge on the crosse, as whē I descended to hel as I am at this day syttyng at y<seg rend="sup">e</seg> ryght syde of my father. But as touchīg y<seg rend="sup">e</seg> inferior powers of my soule was ī a cōtynuall {per}ceuerās with an extreme sorow, for y<seg rend="sup">e</seg> fore said causes / but by course of na<g ref="char:EOLhyphen"/>ture / suche a meruaylous thynge myght neuer be sene y<seg rend="sup">e</seg> ioy &amp; glad<g ref="char:EOLunhyphen"/>nes was euer acōpanyed togider
+<pb facs="tcp:6696:16"/> in one soule, but this thyng was done by meruayl{us} deuine power &amp; miracul{us} {pro}uisiō of my godhed, for after natural cours both ioy &amp; sorow may neuer agre togyther / but euer y<seg rend="sup">e</seg> one expelleh y<seg rend="sup">e</seg> other / so y<seg rend="sup">t</seg> they bothe may neuer remayne ī one place. And for because thou mayst vnderstand these thynges more euidently, I wold thou {per}ce<g ref="char:EOLunhyphen"/>uydest / y<seg rend="sup">t</seg> the wel &amp; foūtayne of al my sorowes / was the hyghe &amp; in estimable despēsacion &amp; pardon / of my father, whiche dyd prohi<g ref="char:EOLhyphen"/>byt and forbed the influence or fluxe of the glorye of my deite, whiche remayned in the superi<g ref="char:EOLhyphen"/>our powers of my soule / that in no wyse shuld redowne vnto the inferioure partes therof. For without suche prouision / it were vnpossible my soule coulde euer
+<pb facs="tcp:6696:16"/> haue suffred any payne or sorow but because this fluxe or influ<g ref="char:EOLhyphen"/>ence was clerely prohibyt in me / therfore I dyde parfetely rest in Ioye and glorye / after the supe<g ref="char:EOLhyphen"/>riour partes. And after the infe<g ref="char:EOLhyphen"/>riour partes therof / I was most vehemently crucified with intol<g ref="char:EOLhyphen"/>lerable paynes, And so the paternall power of my fa<g ref="char:EOLhyphen"/>ther conioyned miraculously the moste depest sorowe / with moste highest swetnes / &amp; y<seg rend="sup">e</seg> most highest power with y<seg rend="sup">e</seg> most wekest infir<g ref="char:EOLhyphen"/>mite / forbecause this flux or īflu<g ref="char:EOLhyphen"/>ēce was {pro}hibit in me / &amp; y<seg rend="sup">t</seg> passed the course of nature / for by natu<g ref="char:EOLhyphen"/>ral course y<seg rend="sup">e</seg> superior powers of y<seg rend="sup">e</seg> soule ought to norysshe &amp; fede y<seg rend="sup">e</seg> ī<g ref="char:EOLunhyphen"/>feriour partes. And in as mo<g ref="char:EOLhyphen"/>che as this despēsacion and par<g ref="char:EOLhyphen"/>don was the more marueylous
+<pb facs="tcp:6696:17"/> ordeyned / my payn and sorowes was the more sharpe and bytter. Also thou shalte vnderstande, that in all my feruent paynes &amp; passion I obserued &amp; kept my na<g ref="char:EOLunhyphen"/>tural course vnto my last ende of deth, wherby I suffred the more paynes and sorowes.</p>
+            </sp>
+            <sp>
+               <speaker>The synner.</speaker>
+               <p>¶without doubt good lorde / he is worthy of deth that refuseth to lyue with the eternally, whiche hathe gyuen thy lyfe for vs / and he y<seg rend="sup">t</seg> lyuethe is but a deed man, that wyll not bothe represent in hym selfe the remembraunce of thy moste bytter and contynuall passyon and alwaye bere on his body thy sore &amp; greuous woun<g ref="char:EOLhyphen"/>des, by doyenge sharpe &amp; strayte penaunce / and also wyll not cru<g ref="char:EOLhyphen"/>cifye hym selfe in hys paynefull
+<pb facs="tcp:6696:17"/> harte / and prepayre &amp; make vnto hym selfe a tourment of depres<g ref="char:EOLhyphen"/>syng carnall affeccion &amp; voluptu<g ref="char:EOLunhyphen"/>ous pleasure.</p>
+            </sp>
+            <sp>
+               <speaker>Christe.</speaker>
+               <p>¶Si quis vult venire post me abneget semet <choice>
+                     <abbr>ipm</abbr>
+                     <expan>ipsum</expan>
+                  </choice> &amp; tollat crucē suā quotidie &amp; sequat̄ me.<note place="margin">Ma. xv</note> y<seg rend="sup">t</seg> is to say / he y<seg rend="sup">t</seg> wyll come after me / let hym take on him his crosse &amp; al<g ref="char:EOLhyphen"/>ways folow me.</p>
+            </sp>
+            <sp>
+               <speaker>The synner.</speaker>
+               <p> ¶O mercifull Iesu y<seg rend="sup">t</seg> arte y<seg rend="sup">e</seg> pro<g ref="char:EOLunhyphen"/>foūde wisdom &amp; excellent vertue of god / illumyne my soule with y<seg rend="sup">e</seg> gyft of vnderstandyng, y<seg rend="sup">t</seg> I may perceyue thy wordes.</p>
+            </sp>
+            <sp>
+               <speaker>Christe.</speaker>
+               <p>¶In this my words thou shalt vnderstande, y<seg rend="sup">t</seg> vnto reasonable man which is made as y<seg rend="sup">e</seg> ymage of god, I haue prouided .iii. thyn<g ref="char:EOLunhyphen"/>ges / y<seg rend="sup">t</seg> is bondshyp / vyle &amp; sharpe sorow, in forsakīg hī self apereth
+<pb facs="tcp:6696:18"/> bondshyp / in beryng of his crosse is vilete &amp; shame / in folowīg me betokeneth bytt̄ sorow. who y<seg rend="sup">t</seg> fal<g ref="char:EOLunhyphen"/>leth by inobedience frō y<seg rend="sup">e</seg> state of iii. felicites must hūbly aryse by y<seg rend="sup">e</seg> obediēce of .iii. miserable afflycti<g ref="char:EOLunhyphen"/>ons. Treuly he falleth frō y<seg rend="sup">e</seg> asso<g ref="char:EOLhyphen"/>ciacion and felyshyp of angelles &amp; frō y<seg rend="sup">e</seg> clere vision &amp; fruicion of my deite &amp; frō y<seg rend="sup">e</seg> heuenly btītude, therfore let him here my coūsell &amp; folowe the same, y<seg rend="sup">t</seg> in forsakynge him selfe / whiche dothe sygnifye his propre wyll, he shall recouer his free lyberte. And in takynge on hī his crosse, that is for to suf<g ref="char:EOLhyphen"/>fre gladly to be contempned and despised of other / he shal recouer the heuenly felyshyp and cōpany of angelles / and in folowyng me that is the steppes of my passion by chastning of his body, he shal
+<pb facs="tcp:6696:18"/> recouer the clere vision of my godhed.</p>
+            </sp>
+            <sp>
+               <speaker>The synner.</speaker>
+               <p>¶Verily good lorde, it is mete and conuenient ye and also ne<g ref="char:EOLhyphen"/>cessary, who y<seg rend="sup">t</seg> wyll reygne with the in glory and ioye, they shuld with the lykewise suffre sorowe &amp; tribulacion, and tho that wyl be norysshed with thy moost blessed coūtenaunce ought to folow thy bytter passion.</p>
+            </sp>
+            <sp>
+               <speaker>Christ.</speaker>
+               <p> Hap<g ref="char:EOLhyphen"/>pye is this sentēce or Iudgemēt of thy mouth, but blessed &amp; more happyer is he y<seg rend="sup">t</seg> always doth re<g ref="char:EOLhyphen"/>uolue in his mynde &amp; remembre perfytly how strayt and narowe and how bitter and sharpe is the waye that conducet man to eter<g ref="char:EOLhyphen"/>nall lyfe, whenne it besemed me for too suffre suche sorowes be<g ref="char:EOLhyphen"/>fore I my selfe myght entre my
+<pb facs="tcp:6696:19"/> glory, yf I in suche wyse bought myne owne propre glory, who is he that may or shall haue it frely by due ryght and tytle, with pas<g ref="char:EOLhyphen"/>tyme &amp; pleasure. wherfore there is none otherway vnto the kyng<g ref="char:EOLunhyphen"/>dome of heuen, but by payne &amp; labour. And y<seg rend="sup">t</seg> ryche man which wyll not chasten his body here, with labour &amp; payne, in y<seg rend="sup">e</seg> respect of penaunce: he shall be associat with y<seg rend="sup">e</seg> deuyll in paynes. And y<seg rend="sup">e</seg> poore man truly with payne and labour in this myserable lyfe: se<g ref="char:EOLhyphen"/>keth y<seg rend="sup">e</seg> crowne of eternall glorye.</p>
+            </sp>
+            <sp>
+               <speaker>The synner.</speaker>
+               <p>¶Alas &amp; wo be vnto me moste synful man, y<seg rend="sup">t</seg> more delited in car<g ref="char:EOLunhyphen"/>nall affection and more was de<g ref="char:EOLhyphen"/>ceyued by vanyte of this worlde then to folow the, whiche oftenty<g ref="char:EOLunhyphen"/>mes for pyte of me, dydest very
+<pb facs="tcp:6696:19"/> bytterly wepe &amp; wayle / &amp; as I ha<g ref="char:EOLunhyphen"/>ue rede thy blessed mother &amp; vir<g ref="char:EOLhyphen"/>gyn īmaculate / dyd ones ioye / in syngyng her canticle.<note place="margin">Luce. i<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </note> But o how oftentymes dyd y<seg rend="sup">e</seg> sharpe sworde of sorowe wounde and perce her holy soule.<note place="margin">Luc. i<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </note> And also Iohn̄ Bap<g ref="char:EOLhyphen"/>tyst y<seg rend="sup">e</seg> exempler &amp; leder of penaūs ones dyd ioy within y<seg rend="sup">e</seg> wombe of his moder which oftētymes is to be supposed / dyd lamentably so<g ref="char:EOLhyphen"/>rowe with an heuy harte.</p>
+            </sp>
+            <sp>
+               <speaker>Chryste.</speaker>
+               <p>¶I hangyng on the crosse / dyd promyse {per}adice to none but vnto theym beynge on the crosse with me.<note place="margin">Gala.<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note> They hangeth on the crosse y<seg rend="sup">t</seg> crucifieth their flessh with vice &amp; cōcupiscens Also I prayed on y<seg rend="sup">e</seg> crosse only for neglygēt synners &amp; not for wylfull synners, truely
+<pb facs="tcp:6696:20"/> as longe as theye be so theye be crucified, without clyppynge or brasinge of me, for I the whiche instretched myne armes on the crosse / enbrased &amp; byclypped all those for whom I suffred my pas<g ref="char:EOLunhyphen"/>syon. if therfore thou wilt ascend after me / and ī heuen with me to be resident / it besemeth thou fo<g ref="char:EOLhyphen"/>lowe me by the way of the crosse / by the which I haue entred into my glorye. Thou canst not trust vnto a better way then to folowe the same wherin I haue gone be<g ref="char:EOLunhyphen"/>fore. Truly yf thou stray or wan<g ref="char:EOLunhyphen"/>der from my steppes / thou shalte peryssh for euermore. Take dili<g ref="char:EOLhyphen"/>gent hede that thou perceyue in what way thou mayst ascende in to heuē. I without dout comyng vnto this worlde descended by a ladder hauyng .iii. steppes &amp; y<seg rend="sup">t</seg> is
+<pb facs="tcp:6696:20"/> humilite / pouerte &amp; payne / wher<g ref="char:EOLunhyphen"/>of it is rede in holy scripture.</p>
+               <p>¶Inuenietis infantem pannis inuolutum et positum in prece<g ref="char:EOLhyphen"/>pio.<note place="margin">Luc. ii</note> That is to saye / ye shal fynde a lytel chyld ful poore &amp; nedy / wrapped with clothes of sorowe / &amp; lyinge in a maūger / &amp; by these .iii. degrees I returned afterwarde vnto heuen agayne. These steppes my valiant apo<g ref="char:EOLhyphen"/>stell Paule cōsidereth &amp; noteth in me / where as he writeth.<note place="margin">Phi. ii</note> Exina<g ref="char:EOLhyphen"/>niuit semet <choice>
+                     <abbr>ipm</abbr>
+                     <expan>ipsum</expan>
+                  </choice>. That is to say / he hath forsaken him selfe. Here mayst thou beholde in me / y<seg rend="sup">e</seg> de<g ref="char:EOLhyphen"/>gre of pouerte,<note place="margin">Phi. ii</note> Formam acci<g ref="char:EOLhyphen"/>piens And taken on hym the offyce of a seruaunt. Here mayst thou beholde in me the degree of humilitie.<note place="margin">Phi. ii</note> Factus obediēs vs{que} ad mortem. And made obediēt
+<pb facs="tcp:6696:21"/> vnto dethe. Beholde here is in me the degree of bytter sorowe / but whyther dothe this ladder of thre steppes cōduce and lede me harken what foloweth.<note place="margin">
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>hi. ii.</note> Propter {quod} et deus illum exaltauit et de<g ref="char:EOLhyphen"/>dit illi nomen: {quod} est super omne nomen. For because of that, god hath bothe exalted hym and gy<g ref="char:EOLhyphen"/>uen vnto hym suche name that passeth al names. Therfore they be fooles and worse then madde that wyll ascende vnto heuen af<g ref="char:EOLhyphen"/>ter me, by a ladder hauynge cō<g ref="char:EOLhyphen"/>trary degrees or steppes / that is to saye / by ryches / honours / and pleasures of the worlde / for as these thynges ledeth man vnto infernall paynes: soo dothe the fyrst conduce man vnto heuen.</p>
+            </sp>
+            <sp>
+               <speaker>The synner.</speaker>
+               <pb facs="tcp:6696:21"/>
+               <p>¶O lorde it is a meruaylous abusyon / for a seruaunt to rest &amp; make good chere / and the lorde to suffre payne and take great la<g ref="char:EOLunhyphen"/>boure.</p>
+            </sp>
+            <sp>
+               <speaker>Chryst.</speaker>
+               <p>¶who that deuoutly wyll re<g ref="char:EOLhyphen"/>membre my passyon / let hym be a shamed to folowe the pleasure and voluptuousnes of the body, for the remembraunce of my pas<g ref="char:EOLunhyphen"/>syon dothe torment and expell al vice and synne / for in my passion all men may contempne the plea<g ref="char:EOLunhyphen"/>sure of the worlde and the flesshe whiche yf thou wylte ouercome without laboure thou oughtest deuoutly remembre my passyon / and in y<seg rend="sup">e</seg> same ioyously to delyte and styck surely to my woundes ye and yf thou wylte ouercome &amp;
+<pb facs="tcp:6696:22"/> resyst the deuyll / whiche syngu<g ref="char:EOLhyphen"/>lerly dothe persecute vertuous &amp; well disposed people / and to sub<g ref="char:EOLhyphen"/>presse him from his crafty wyly<g ref="char:EOLhyphen"/>nes / thou oughtest alwayes to re<g ref="char:EOLunhyphen"/>membre my heuy passion. But it is necessary and cōuenyent / that they imprynt and marke the ca<g ref="char:EOLhyphen"/>recter and similitude of my pas<g ref="char:EOLhyphen"/>syon in their maners and conuer<g ref="char:EOLunhyphen"/>sacyon / y<seg rend="sup">e</seg> whiche dothe imprynt or marke for theyr defence, the sygne and token of my passion in their forehedes, &amp; that they lyue vnderneth the lawe of me, with whose fayth they be armed O<g ref="char:EOLhyphen"/>therwyse suche falsely bereth the carecter of my father, whose com<g ref="char:EOLunhyphen"/>maundementes they wyll not fo<g ref="char:EOLunhyphen"/>lowe ne yet obserue. And also su<g ref="char:EOLhyphen"/>che be not safely defended by the crosse of me, whose sorofull pay<g ref="char:EOLhyphen"/>nes
+<pb facs="tcp:6696:22"/> they wyll not consyder.</p>
+            </sp>
+            <sp>
+               <speaker>The synner.</speaker>
+               <p>¶O meke Iesu be thou mercy<g ref="char:EOLhyphen"/>full and gracyous / in geuynge a more larger confort or ioye vnto my herynge, by shewynge vnto me moste wretched synner / y<seg rend="sup">e</seg> pro<g ref="char:EOLunhyphen"/>fytes &amp; frutes y<seg rend="sup">t</seg> cometh by dayly remembraūce of thy moste holy passyon.</p>
+            </sp>
+            <sp>
+               <speaker>Chryst.</speaker>
+               <p>¶The remēbraūce of my dethe oft by dayly ruminaciō / to flame and burne in the auter of thy re<g ref="char:EOLhyphen"/>membraunce for many causes. The first cause is: thou mayst do no thynge that more delyteth or pleaseth me / then to exercyse thy hart with loue / cōpassyon / in ho<g ref="char:EOLhyphen"/>nouryng &amp; folowyng my passion of the whiche no doubt there is: but it dothe appere in many auc<g ref="char:EOLunhyphen"/>torytes
+<pb facs="tcp:6696:23"/> of holy scripture. And for sothe I warne the to prynte and marke in thy soule my tēder loue and amorous paynes / &amp; for the same thou gyue me herty than<g ref="char:EOLhyphen"/>kes / &amp; as a sygne or token thou put &amp; ioyne me vpon thy hart: as yf I sayd. Loue me as I loue y<seg rend="sup">e</seg>. Remembre thou not onely what thynges I haue made vnto the / but howe bytter &amp; vyle thynges I haue suffred for y<seg rend="sup">e</seg>. And yf thou loue me not / thou art myne ene<g ref="char:EOLhyphen"/>my. And therfore take hede &amp; cō<g ref="char:EOLhyphen"/>syder thou do not me offende. who is he truely dothe loue the as I do. who is he that so desyre<g ref="char:EOLunhyphen"/>th to be beloued with y<seg rend="sup">e</seg> as I do. Therfore after this / put me on thy hart as a sygne or tokē thou louest me with al thy strength / &amp; on thyne armes that thou mayst
+<pb facs="tcp:6696:23"/> perfourme with all thy loue tho thynges which be pleasaūt vnto me. And within thy harte y<seg rend="sup">t</seg> thou mayst subpresse all thynges in this worlde / that vnto y<seg rend="sup">e</seg> is plea<g ref="char:EOLhyphen"/>saunt in thy loue / and prefer me euermore aboue al thynges / and that thou alwayes loue me more and more. The seconde is: thou oughtest feruently to remembre my passyon / for thou mayst haue by it a perfyte gyde vnto my de<g ref="char:EOLhyphen"/>uyne loue. Truly by my passyon I haue shewed my quantyte of loue vnto the. wherfore thou ou<g ref="char:EOLunhyphen"/>ghtest to consyder that loue de<g ref="char:EOLhyphen"/>serueth &amp; requyreth loue agayne And more ouer take good heed what I wyll say vnto the. I ne<g ref="char:EOLhyphen"/>uer wylled to haue redemed mā by prayer or intercessyon / for so mought man quyckely delyuer
+<pb facs="tcp:6696:24"/> man from captiuite / ne yet also by the pryce of golde or syluer / for in suche wyse be the rewde bestes: as shepe or oxen redemed and bought. But y<seg rend="sup">e</seg> conclusyō of mannes redempcyon / was deter<g ref="char:EOLunhyphen"/>mined to be bought with y<seg rend="sup">e</seg> pryce of my precious bloode / that my loue shulde hange alwayes in the pryce of the thynge y<seg rend="sup">t</seg> is bou<g ref="char:EOLhyphen"/>ght: leest therfore thou shuldest vylepend and not regarde thyne <gap reason="illegible" resp="#keyers" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> Consider thou quyckely the pryce of thy selfe / for if I shulde haue redemed mā with golde or syluer / it mought haue ben supposed the soule of man were to be compared with worldely ryches / for that thynge whiche is bought or redemed is farre more precious / then that thyng by the which it is bought
+<pb facs="tcp:6696:24"/> or redemed. And therfore is thy soule more precio{us} thē my blode ¶Thyrdely is for the excitynge of deuocion / wherof a fygure is rede / that Sampson founde a hony combe within the mouthe of a deed Lyon. This Lyon am I, of the trybe of Iude in whose mouth y<seg rend="sup">e</seg> swete honi combe of de<g ref="char:EOLunhyphen"/>uocion, was foūde by y<seg rend="sup">t</seg> which y<seg rend="sup">e</seg> spiryt of man is refresshed &amp; mer<g ref="char:EOLunhyphen"/>uaylously conforted. O yf thou tokest good hede / thou woldest consyder / and perfytely ponder how petifully my mouth opened and semed halfe on lyue &amp; halfe deed / and my tongue was defor<g ref="char:EOLhyphen"/>med with gore bloode, ye and I dare well saye / yf thy harte were as harde as is the steele, this thynge well pondered and remē<g ref="char:EOLunhyphen"/>bred, it shulde be made lyquyet
+<pb facs="tcp:6696:25"/> with compassyon and deuocion. The fourth frute of the remem<g ref="char:EOLhyphen"/>braūce of my passion is, because in it is founde a sure defence a<g ref="char:EOLhyphen"/>gaynste all enemyes. wherof my apostel Pet{er} doth say.<note place="margin">Pet. iiii.</note>
+                  <choice>
+                     <abbr>Xpo</abbr>
+                     <expan>Christo</expan>
+                  </choice> igit̄ passo in carne et vos eadem cogi<g ref="char:EOLunhyphen"/>tatiōe armamini. Christ therfore hath suffred deth &amp; passion incar<g ref="char:EOLunhyphen"/>nate / y<seg rend="sup">t</seg> by y<seg rend="sup">e</seg> remēbraūce therof lo<g ref="char:EOLunhyphen"/>ke ye arme your self / &amp; as ysayas reherseth lykewise.<note place="margin">
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ye. ii.</note> In gredere ī petram. As a kynge that is not able to withstande his enemyes in the felde, taketh socour of the castel. So entre ye into the stone whyche am I: of whome the Prophet speketh of. For an ennemye shall neuer preuayle a<g ref="char:EOLhyphen"/>gaynst him in whome the dayly batayle of my passion alway de<g ref="char:EOLhyphen"/>lyteth.</p>
+               <pb facs="tcp:6696:25"/>
+               <p> The fyfth is because man onely is restored vnto his merytes by none other maner of meanes but by the remembraunce of my pas<g ref="char:EOLhyphen"/>syon / for the foundement of all grace and the roote of meryte cō<g ref="char:EOLhyphen"/>systeth in the doloure of my hart and crucyfyinge of my body / the whiche my electe postell sayth. Non enim iudicaui me scire ali<g ref="char:EOLhyphen"/>quid inter vos nisi Iesū Christū et hunc crucifixum.<note place="margin">Cor. ii</note> Truely I haue nat iudged or determyned to knowe any thynge of my selfe amongest you: but my lord Iesu Chryste &amp; that he was crucyfyed. And also Bernarde the deuoute chylde of my blessed mother lyke wyse sayeth.<note place="margin">Barn<g ref="char:EOLunhyphen"/>dus.</note> Sūma philoso<g ref="char:EOLhyphen"/>phia mea <choice>
+                     <abbr>inqd</abbr>
+                     <expan>inquid</expan>
+                  </choice> est scire christum Iesū et hunc crucifixum. My most high lernyng and vnderstā<g ref="char:EOLunhyphen"/>ding
+<pb facs="tcp:6696:26"/> he saith is for to know Iesu christ &amp; y<seg rend="sup">t</seg> he was crucyfyed. But for as moche as there be so many ennemyes vnto my crosse / thou oughtest to be heuy &amp; sory / with a lamentable harte / for the vo<g ref="char:EOLhyphen"/>luptuous lyuers of thys myse<g ref="char:EOLhyphen"/>rable worlde be my persecutours and folowers of my deth / nat as fauters and aucters to the same but as despysers and contemp<g ref="char:EOLhyphen"/>ters therof. That wylfully exclu<g ref="char:EOLunhyphen"/>deth and auoydeth from theym / the merytes of my passyon and causeth them self to be vnworthy of my heuenly benedictiō and in<g ref="char:EOLhyphen"/>effable glory / and wyl in no wyse conuerte vnto me / but alwayes contynue in pleasure and delyte of body / suche nat onely mocketh and scorneth the merites of my passyon, but also tredeth me the
+<pb facs="tcp:6696:26"/> sone of god vnderneth their fete, and taketh disdayne of my spyry<g ref="char:EOLhyphen"/>tuall grace, for a carnall lyfe is iniurye vnto god. A malycyous despyte vnto my crosse / and pro<g ref="char:EOLhyphen"/>uoketh shame and rebuke vnto all the hole Trynite.</p>
+               <p>The syxth is y<seg rend="sup">t</seg> the remembraūce of my passyon causeth all paynes and labours / to be glad and ioy<g ref="char:EOLhyphen"/>full that synners taketh in y<seg rend="sup">e</seg> way of penaunce and the exercyse of a godly and a relygyous lyfe, for truely a deuout knyght neuer fe<g ref="char:EOLhyphen"/>leth his owne sorowes or paynes what tyme he perceyuethe and beholdeth the sore plages and woūdes of his gentyll lorde and duke. The seuenth is that my passyon called vnto remēbraūce quencheth &amp; vtterly banyssheth all carnall concupyscence. For
+<pb facs="tcp:6696:27"/> with out doubte the syght of my passyō wedreth and dryeth what so euer thynge foloweth man of a carnal desyre. The eyght cau<g ref="char:EOLunhyphen"/>seth exercyse of compungcyon &amp; penaūce doynge, in recompence of synnes, for who is he that wyl nat wayle and sorow in most lar<g ref="char:EOLhyphen"/>gest wyse, knowyng that his syn<g ref="char:EOLhyphen"/>nes be so odyous and hatefull in the syght of god my father, that for the purgeyng therof, he wyl<g ref="char:EOLhyphen"/>led me his electe sonne / to suffre moost paynefull deth and passyō on the crosse. The nyneth cau<g ref="char:EOLhyphen"/>seth multyplyenge &amp; increasyng of good fayth and hope, for a syn<g ref="char:EOLunhyphen"/>ner hath refuge by my crosse / as a thefe or homicyde hathe by a church or cymitory. There is no<g ref="char:EOLhyphen"/>thynge to that dethe, that by my deth may nat recouer. I haue
+<pb facs="tcp:6696:27"/> chaunged the sentence of eternal dampnacyon, by crucyfying my body. For in that sentence which Pylate gaue agaynst me. I toke on me y<seg rend="sup">e</seg> combrous weyght and burden of all synnes, and was iudged vnto deth for all synners to discharge and vtterly expulse their fylthy sinnes, with y<seg rend="sup">e</seg> which they were long tyme before, sore pestred and accombred. wher<g ref="char:EOLhyphen"/>fore now accordyng vnto thy de<g ref="char:EOLhyphen"/>syre I haue shewed and declared the goostly frutes that foloweth by deuout remembraunce of my sorowfull passyon.</p>
+            </sp>
+            <sp>
+               <speaker>The synner.</speaker>
+               <p>¶O good Iesu I now perceyue and vnderstande very wel, these thynges thou hast rehersed, how be it this sentence gyuen by Py<g ref="char:EOLhyphen"/>late
+<pb facs="tcp:6696:28"/> was very peruers and cruel towarde the, and therfore it was detestable to be abhorred / for as moche as man hathe no power vpon god / ne yet a corrupt lyuer vpon y<seg rend="sup">e</seg> iust and rightuous man. Neuertheles as touchynge for mannes redempcion it was mer<g ref="char:EOLunhyphen"/>uaylous profytable and fruteful and therfore it was through thy prouysyon very louynge &amp; moste venerable, for as moche as it cle<g ref="char:EOLunhyphen"/>rely reuoked the foresayde iuge<g ref="char:EOLhyphen"/>ment or sentence pronoūced and declared for y<seg rend="sup">e</seg> fyrst synne of man For that open sentence of exclu<g ref="char:EOLhyphen"/>dynge or banysshynge was full of sorowe and heuynes.</p>
+               <p>wherof it is wrytten Emisit eū dominus de{us} de paradiso volup<g ref="char:EOLunhyphen"/>tatis.<note place="margin">
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>. iii.</note> &amp;c. et collocauit ante para<g ref="char:EOLunhyphen"/>disū voluptatis cherubin et fla<g ref="char:EOLhyphen"/>meū
+<pb facs="tcp:6696:28"/> gladiū at{que} versatilē ad cus<g ref="char:EOLunhyphen"/>todiendā viā ligni vite. Our lorde expulsed man out from pa<g ref="char:EOLhyphen"/>radyce, of heuenly pleasure and assygned, the anugell Cheru<g ref="char:EOLhyphen"/>byn, with an armyng sworde, to kepe the way vnto y<seg rend="sup">e</seg> tree of lyfe. But nowe happy and blessed is thy sentence wherby the exyle, man is called &amp; restored agayne vnto y<seg rend="sup">e</seg> celestiall paradyce when by this sentence the sone of god wrongfully was caste out from his inherytaunce as a seruaunt: tyllyng and plowyng the vyne<g ref="char:EOLhyphen"/>yarde of Moyses lawe. wherof the apostell speketh. Iesus vt scīficaret {per} suum sanguinē popu<g ref="char:EOLunhyphen"/>lum extra portam passus est.<note place="margin">Heb. xii</note> Because that Iesus wold halow and sanctifye his people by his precyous bloode, he suffred deth
+<pb facs="tcp:6696:29"/> without y<seg rend="sup">e</seg> gate. And well it may so be said that he suffred without to brynge vs within the gate of heuen. For without doubt we haue onely oure entrynge in, by shedynge of his precyous blood But o mekest Iesu in most hum<g ref="char:EOLunhyphen"/>blest wyse, I beseche the with y<seg rend="sup">e</seg> feruent powers of my hart, and for all the bytter sorowes and in tollerable passion with y<seg rend="sup">e</seg> whiche thy most dulce and pleasant hart was persed and wounded: as with most kynnest and sharpest dartes / ye and also I beseche the for all y<seg rend="sup">e</seg> sorowes that thy blessed mother and virgyn immaculate susteyned and suffred, in behol<g ref="char:EOLhyphen"/>dynge thy tormentes and passiō and in especially what tyme she harde of the cruel sentence of thy condēpnacyon vnto deth / turne
+<pb facs="tcp:6696:29"/> towarde me thy mercyfull coun<g ref="char:EOLhyphen"/>tenaunce / and of pyte and com<g ref="char:EOLhyphen"/>passyon delyuer me poore synner in the hour of deth / and in the ex<g ref="char:EOLhyphen"/>treme day of iugement / frō y<seg rend="sup">e</seg> teri<g ref="char:EOLunhyphen"/>ble wordes and sentence of eter<g ref="char:EOLhyphen"/>nall dampnacyon / whiche thou shalt sounde out with a huge &amp; a fereful voyce vnto al reproued synners sayinge. Descedite a me maledicti in ignem eternum:<note place="margin">Ma. xxv</note> qui parat{us} est diabolo &amp; angelis eius. That is to say departe &amp; get ye hens moste wycked &amp; cur<g ref="char:EOLhyphen"/>sed synners vnto the eternal fyre of hell whiche is prepared and redy for the deuyll and all his angelles.</p>
+            </sp>
+            <sp>
+               <speaker>Chryst.</speaker>
+               <p>¶Blessed &amp; happy is that man whiche alway bereth in remem<g ref="char:EOLhyphen"/>braunce
+<pb facs="tcp:6696:30"/> his fynall iugemēt that by the fere and drede / wherof he may withdrawe his lyfe frome the deceytfull pleasures of this world / &amp; without doubt this iug<g ref="char:EOLunhyphen"/>mēt or sētence is to be fered wher<g ref="char:EOLunhyphen"/>at al thīgs shalbe opē &amp; manifest<g ref="char:EOLunhyphen"/>ly knowē without witnes &amp; all y<seg rend="sup">e</seg> hole multitude &amp; cōpany both of angels &amp; holy saītes shalbe their {pre}sent &amp; eūi creature shal trimble for feare before my hygh maiesty &amp; iudiciall seate. But what shall they say then y<seg rend="sup">t</seg> in this lytel tyme hath so folysshly &amp; so neglygētly lyued / to whom my saying shal<g ref="char:EOLhyphen"/>be in this maner. I haue truely loked for you pacyently / &amp; haue very ientely prayed &amp; desyred all you vnto my kīgdom / &amp; for your neclygens I now requyre of you a coūtes &amp; more ouer I say vnto
+<pb facs="tcp:6696:30"/> you / y<seg rend="sup">t</seg> for youre sakes I toke on me y<seg rend="sup">e</seg> feblenes of natur &amp; was cō<g ref="char:EOLunhyphen"/>uersant vpon y<seg rend="sup">e</seg> erth. And for you was I flagellat &amp; scorged in my body / for you was I lykewyse mocked &amp; scorned &amp; al be spotted &amp; vtterly defyed &amp; for you I was spytefully beaten &amp; buffed about my face with vnclene fystes &amp; hā<g ref="char:EOLunhyphen"/>des. For you also I was vniust<g ref="char:EOLhyphen"/>ly condempned vnto deth / &amp; for you I was crucifyed in my body &amp; hanged on y<seg rend="sup">e</seg> crosse / &amp; fed with bitter gal &amp; eysel. And al this suf<g ref="char:EOLunhyphen"/>fred I to make you holi &amp; blessed saītes. I haue more ouer named &amp; called all you my dere brethren I haue offred al you vnto my fa<g ref="char:EOLunhyphen"/>ther. I haue sende vnto you the spryt of god. I haue opened vnto you my paradyce of glory. what ought I more to haue don
+<pb facs="tcp:6696:31"/> &amp; haue not perfourmed the same in very dede for your saluacyon Answere vnto me ye wretched synners. what haue ye suffred for me your lorde &amp; gouerner which beynge pure &amp; clene hath suffred so moche for you. Truely these shalbe the repeticions made at y<seg rend="sup">e</seg> dredfull day of iugement.</p>
+            </sp>
+            <sp>
+               <speaker>The synner.</speaker>
+               <p>¶Alas that euer I was concey<g ref="char:EOLunhyphen"/>ued or borne / howe miserable a wretche am I: what may I say / or what shall I do / in y<seg rend="sup">t</seg> dredfull day / whē at my apperaūce I can performe no maner of goodnes before the most ferefull iudge.</p>
+            </sp>
+            <sp>
+               <speaker>Chryst.</speaker>
+               <p>¶whyles y<seg rend="sup">e</seg> tyme dureth correct thy lyfe / chaunge thy maners / 
+<pb facs="tcp:6696:31"/> ouercome euyll temptacions / by manfully resystynge / punysshe thy carkes and pray with lowly teeres / thy synnes hath the here as a conquerour or a punyssher, that thou mayst ī y<seg rend="sup">t</seg> day haue me nat as a iudge, but as a sauyour yf thou therfore faythfully per<g ref="char:EOLhyphen"/>forme these thīges rehersed thou shalt be saued in that daūgerous day, without any fere that y<seg rend="sup">e</seg> mul<g ref="char:EOLunhyphen"/>tytude of thy synnes / shall put y<seg rend="sup">e</seg> vnto. For soth I am a more mer<g ref="char:EOLunhyphen"/>cyfull sauyoure then thou arte a synner, thy synnes be great but my mercy is infynite / yf thou be a synner / I am the meke lambe of god which hath taken away y<seg rend="sup">e</seg> synnes of the worlde / and came nat for to cal iust lyuers, but syn<g ref="char:EOLunhyphen"/>ners vnto penaunce. For truely thou shalt fynde in me more mer<g ref="char:EOLunhyphen"/>cy
+<pb facs="tcp:6696:32"/> and loue then thou da<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>est bol<g ref="char:EOLhyphen"/>dely aske or desy<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</p>
+            </sp>
+            <trailer>¶Finis.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶Thus endeth the Dia<g ref="char:EOLunhyphen"/>logue or communicaci<g ref="char:EOLhyphen"/>on betwene our saui<g ref="char:EOLhyphen"/>our Ihesu Chryste and a sinner / lately translated out of the Latin tonge in to englyshe, And newly imprynted, at London in south warke by Iohan Redman, For Robert Redman, Cum priuilegio.</p>
+            <pb facs="tcp:6696:32"/>
+         </div>
+      </back>
+   </text>
+</TEI>
